@@ -63,7 +63,6 @@ We intentionally limit the choice to a single framework/tool for a particular ty
     - JPG
     - PNG
     - SVG
-  - Color selection
   - Figma
     - Using third-party templates
 
