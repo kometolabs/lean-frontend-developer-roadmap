@@ -58,6 +58,10 @@ We intentionally limit the choice to a single framework/tool for a particular ty
   - CSS Grid basics
   - Google fonts
 - Responsive Web Design
+  - Relative units (rem)
+  - Flexible grid (re Flexbox & CSS Grid)
+  - Media queries
+  - Resonsive images
 - Design
   - Image formats
     - JPG
