@@ -53,15 +53,21 @@ We intentionally limit the choice to a single framework/tool for a particular ty
     - Padding
     - Margin
     - Pseudo-selectors
+  - Size units
+    - px
+    - %
+    - rem
+    - vh
   - CSS Variables
   - Flexbox basics
   - CSS Grid basics
   - Google fonts
 - Responsive Web Design
-  - Relative units (rem)
-  - Flexible grid (re Flexbox & CSS Grid)
+  - Relative units (re rem, %)
+  - Flexible grid (re Flexbox, CSS Grid)
   - Media queries
   - Resonsive images
+    - Picture tag
 - Design
   - Image formats
     - JPG
