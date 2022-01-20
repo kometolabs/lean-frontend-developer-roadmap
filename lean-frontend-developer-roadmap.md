@@ -125,6 +125,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
       - Framework basics
       - CSS in React
         - CSS Modules
+        - clsx
       - Automated testing
         - Jest
         - React Testing Library
