@@ -4,7 +4,7 @@
 
 There are many great technologies to learn and use. Some of them are more modern and some of them are more effective. But when you have a very limited learning budget/time, you need to focus on what's more important. This roadmap is a minimal list of technologies and approaches a junior frontend developer should know to start bringing value to the team and the project as soon as possible.
 
-We intentionally limit the choice to a single framework/tool for a particular type of job. We take responsibility for the choice to save the junior dev from doubts and the corresponding fatigue of constant comparison.
+We intentionally limit the choice to a single framework/tool for a particular type of job. We take responsibility for the choice to protect junior developers from doubts and the corresponding fatigue of constant comparison.
 
 **Please note, it's a living document because we are constantly looking for better and leaner technologies and approaches. If you want to cement it, please fork.**
 
