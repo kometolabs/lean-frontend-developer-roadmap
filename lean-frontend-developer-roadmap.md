@@ -67,6 +67,8 @@ We intentionally limit the choice to a single framework/tool for a particular ty
     - JPG
     - PNG
     - SVG
+  - SVG icons
+    - Font Awesome
   - Figma
     - Using third-party templates
 
@@ -125,8 +127,6 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 - Design
   - Figma
     - Creating banners
-  - SVG icons
-    - Font Awesome
 
 ### Level 6. Going deeper
 
