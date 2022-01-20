@@ -123,7 +123,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
   - Frameworks
     - React
       - Framework basics
-      - CSS in React
+      - Component styling
         - CSS Modules
         - clsx
       - Automated testing
