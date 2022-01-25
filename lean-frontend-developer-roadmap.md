@@ -81,7 +81,9 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 
 ### Level 3. CSS framework & Git team workflow
 
-- NPM basics
+- JavaScript
+  - NPM basics
+  - Installing Node with NVM
 - CSS Frameworks
   - Tailwind
 - Version control
