@@ -77,6 +77,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
     - Font Awesome
   - Figma
     - Using third-party templates
+    - Creating own banners
 
 ### Level 3. CSS framework & Git team workflow
 
@@ -122,7 +123,20 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 - JavaScript
   - Frameworks
     - React
-      - Framework basics
+      - Installing CRA
+      - Basics
+        - Functional component
+        - Hooks
+          - useState
+          - useEffect
+          - useCallback
+          - useRef
+          - useMemo
+          - useContext
+          - Creating own hooks
+        - Context
+        - Patterns
+          - Component composition
       - Component styling
         - CSS Modules
         - clsx
@@ -131,9 +145,6 @@ We intentionally limit the choice to a single framework/tool for a particular ty
         - React Testing Library
 - Build systems
   - Vite
-- Design
-  - Figma
-    - Creating banners
 
 ### Level 6. Going deeper
 
@@ -143,6 +154,13 @@ We intentionally limit the choice to a single framework/tool for a particular ty
       - State management
         - Redux
 - TypeScript
+  - Built-in types
+  - Installing community types
+  - Creating own type
+  - DOM Event parameter types
+  - React types
+    - Insalling CRA typescript template
+    - Props type
 - Deployment
   - Docker
   - Docker Compose
