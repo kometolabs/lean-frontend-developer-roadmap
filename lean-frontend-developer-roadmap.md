@@ -127,6 +127,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
       - Basics
         - Functional component
         - Hooks
+          - Rules of Hooks
           - useState
           - useEffect
           - useCallback
