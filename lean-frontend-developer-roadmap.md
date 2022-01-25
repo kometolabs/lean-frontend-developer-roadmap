@@ -83,7 +83,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 
 - JavaScript
   - NPM basics
-  - Installing Node with NVM
+  - Installing Node through NVM
 - CSS Frameworks
   - Tailwind
 - Version control
