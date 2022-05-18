@@ -113,8 +113,6 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 - Debugging
   - Console output
   - Chrome debugger
-- API request structure
-  - REST
 - Deployment
   - Vercel
 - Security
@@ -172,6 +170,8 @@ We intentionally limit the choice to a single framework/tool for a particular ty
 
 ### [Optional] Level 7. Broaden horizons to full-stack
 
+- API request structure
+  - REST
 - Next.js
   - Pages
   - APIs
