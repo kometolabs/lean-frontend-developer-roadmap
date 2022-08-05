@@ -109,7 +109,7 @@ We intentionally limit the choice to a single framework/tool for a particular ty
   - AJAX
     - Axios
   - Frameworks
-    - Alpine.js (for the sake of learning)
+    - Alpine.js
 - Debugging
   - Console output
   - Chrome debugger
